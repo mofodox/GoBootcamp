@@ -7,6 +7,10 @@ import (
 	"time"
 )
 
+/*
+	Tutorial four covers the numbers and using the built in Math package
+*/
+
 func TutorialFour() {
 	fmt.Println("5 + 4", 5+4)
 	fmt.Println("5 - 4", 5-4)
